@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
                        * Don't worry about the indent, we strip it!
                        DESC
 
-  s.homepage         = 'https://coding.net/u/wtlucky/p/podTestLibrary'
+  s.homepage         = 'https://github.com/hong4cong/MySpecs'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hong4cong' => 'hong4cong@gmail.com' }
